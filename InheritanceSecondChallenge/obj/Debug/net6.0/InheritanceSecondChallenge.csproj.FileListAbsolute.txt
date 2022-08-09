@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\bin\Debug\net6.0\InheritanceSecondChallenge.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\bin\Debug\net6.0\InheritanceSecondChallenge.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\bin\Debug\net6.0\InheritanceSecondChallenge.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\bin\Debug\net6.0\InheritanceSecondChallenge.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\bin\Debug\net6.0\InheritanceSecondChallenge.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\InheritanceSecondChallenge.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\InheritanceSecondChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\InheritanceSecondChallenge.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\InheritanceSecondChallenge.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\InheritanceSecondChallenge.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\InheritanceSecondChallenge.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\refint\InheritanceSecondChallenge.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\InheritanceSecondChallenge.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\InheritanceSecondChallenge.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceSecondChallenge\obj\Debug\net6.0\ref\InheritanceSecondChallenge.dll

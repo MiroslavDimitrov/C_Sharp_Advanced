@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\bin\Debug\net6.0\InheritanceNew.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\bin\Debug\net6.0\InheritanceNew.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\bin\Debug\net6.0\InheritanceNew.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\bin\Debug\net6.0\InheritanceNew.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\bin\Debug\net6.0\InheritanceNew.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\InheritanceNew.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\InheritanceNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\InheritanceNew.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\InheritanceNew.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\InheritanceNew.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\InheritanceNew.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\refint\InheritanceNew.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\InheritanceNew.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\InheritanceNew.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\InheritanceNew\obj\Debug\net6.0\ref\InheritanceNew.dll
