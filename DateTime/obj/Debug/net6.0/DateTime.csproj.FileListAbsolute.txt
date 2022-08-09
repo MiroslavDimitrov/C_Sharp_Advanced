@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\bin\Debug\net6.0\DateTime.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\bin\Debug\net6.0\DateTime.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\bin\Debug\net6.0\DateTime.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\bin\Debug\net6.0\DateTime.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\DateTime.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\DateTime.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\DateTime\obj\Debug\net6.0\ref\DateTime.dll
