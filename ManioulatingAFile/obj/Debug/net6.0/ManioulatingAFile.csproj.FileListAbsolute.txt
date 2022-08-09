@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\bin\Debug\net6.0\ManioulatingAFile.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\bin\Debug\net6.0\ManioulatingAFile.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\bin\Debug\net6.0\ManioulatingAFile.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\bin\Debug\net6.0\ManioulatingAFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\bin\Debug\net6.0\ManioulatingAFile.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ManioulatingAFile.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ManioulatingAFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ManioulatingAFile.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ManioulatingAFile.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ManioulatingAFile.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ManioulatingAFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\refint\ManioulatingAFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ManioulatingAFile.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ManioulatingAFile.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ManioulatingAFile\obj\Debug\net6.0\ref\ManioulatingAFile.dll
