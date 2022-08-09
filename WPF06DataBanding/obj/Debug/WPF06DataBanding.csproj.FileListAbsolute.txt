@@ -1,0 +1,16 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\bin\Debug\WPF06DataBanding.exe.config
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\bin\Debug\WPF06DataBanding.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\bin\Debug\WPF06DataBanding.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding.csproj.SuggestedBindingRedirects.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\MainWindow.g.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\App.g.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding_MarkupCompile.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding_MarkupCompile.lref
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\MainWindow.baml
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding.g.resources
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding.Properties.Resources.resources
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding.csproj.GenerateResource.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF06DataBanding\obj\Debug\WPF06DataBanding.pdb
