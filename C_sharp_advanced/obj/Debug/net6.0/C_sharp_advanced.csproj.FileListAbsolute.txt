@@ -1,0 +1,17 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\bin\Debug\net6.0\C_sharp_advanced.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\bin\Debug\net6.0\C_sharp_advanced.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\bin\Debug\net6.0\C_sharp_advanced.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\bin\Debug\net6.0\C_sharp_advanced.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\bin\Debug\net6.0\C_sharp_advanced.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\bin\Debug\net6.0\DryIoc.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.csproj.CopyComplete
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\refint\C_sharp_advanced.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\C_sharp_advanced.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\C_sharp_advanced\obj\Debug\net6.0\ref\C_sharp_advanced.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZWrrcnEwa2Ran6CwVHt6iHdDe8KeDAOY2Gp5GQEUq7ha6vZwIMRmt1WJ/ns9o5pT4+Sk+D7ApxTz3vAZKo0xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miro\\Desktop\\C#\\C_sharp_advanced\\C_sharp_advanced\\C_sharp_advanced.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miro\\.nuget\\packages\\dryioc.dll\\5.1.0\\dryioc.dll.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

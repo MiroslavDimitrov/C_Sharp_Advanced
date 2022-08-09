@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\bin\Debug\net6.0\AnonymousMethods.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\bin\Debug\net6.0\AnonymousMethods.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\bin\Debug\net6.0\AnonymousMethods.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\bin\Debug\net6.0\AnonymousMethods.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\bin\Debug\net6.0\AnonymousMethods.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\AnonymousMethods.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\AnonymousMethods.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\AnonymousMethods.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\refint\AnonymousMethods.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\AnonymousMethods.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\AnonymousMethods.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\AnonymousMethods\obj\Debug\net6.0\ref\AnonymousMethods.dll
