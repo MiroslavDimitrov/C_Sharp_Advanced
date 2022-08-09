@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\bin\Debug\net6.0\Mth.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\bin\Debug\net6.0\Mth.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\bin\Debug\net6.0\Mth.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\bin\Debug\net6.0\Mth.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\bin\Debug\net6.0\Mth.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\Mth.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\Mth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\Mth.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\Mth.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\Mth.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\Mth.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\refint\Mth.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\Mth.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\Mth.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\Mth\obj\Debug\net6.0\ref\Mth.dll
