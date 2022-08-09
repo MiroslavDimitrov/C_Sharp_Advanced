@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\refint\ReadFromTextFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ReadFromTextFile\obj\Debug\net6.0\ref\ReadFromTextFile.dll
