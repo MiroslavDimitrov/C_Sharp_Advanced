@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\bin\Debug\net6.0\ChallengeVideopostAndTimer.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\bin\Debug\net6.0\ChallengeVideopostAndTimer.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\bin\Debug\net6.0\ChallengeVideopostAndTimer.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\bin\Debug\net6.0\ChallengeVideopostAndTimer.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\bin\Debug\net6.0\ChallengeVideopostAndTimer.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ChallengeVideopostAndTimer.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ChallengeVideopostAndTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ChallengeVideopostAndTimer.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ChallengeVideopostAndTimer.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ChallengeVideopostAndTimer.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ChallengeVideopostAndTimer.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\refint\ChallengeVideopostAndTimer.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ChallengeVideopostAndTimer.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ChallengeVideopostAndTimer.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\ChallengeVideopostAndTimer\obj\Debug\net6.0\ref\ChallengeVideopostAndTimer.dll
