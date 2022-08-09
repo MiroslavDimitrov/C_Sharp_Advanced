@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\bin\Debug\net6.0\EventsAndMulticastDelegates.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\bin\Debug\net6.0\EventsAndMulticastDelegates.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\bin\Debug\net6.0\EventsAndMulticastDelegates.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\bin\Debug\net6.0\EventsAndMulticastDelegates.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\bin\Debug\net6.0\EventsAndMulticastDelegates.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\EventsAndMulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\EventsAndMulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\EventsAndMulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\EventsAndMulticastDelegates.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\EventsAndMulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\EventsAndMulticastDelegates.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\refint\EventsAndMulticastDelegates.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\EventsAndMulticastDelegates.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\EventsAndMulticastDelegates.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\EventsAndMulticastDelegates\obj\Debug\net6.0\ref\EventsAndMulticastDelegates.dll
