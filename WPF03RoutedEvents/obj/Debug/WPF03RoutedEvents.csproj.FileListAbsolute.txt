@@ -1,0 +1,16 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\bin\Debug\WPF03RoutedEvents.exe.config
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\bin\Debug\WPF03RoutedEvents.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\bin\Debug\WPF03RoutedEvents.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\MainWindow.g.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\App.g.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents_MarkupCompile.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents_MarkupCompile.lref
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\MainWindow.baml
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents.g.resources
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents.Properties.Resources.resources
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents.csproj.GenerateResource.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF03RoutedEvents\obj\Debug\WPF03RoutedEvents.pdb
