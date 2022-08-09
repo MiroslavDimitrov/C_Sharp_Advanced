@@ -1,0 +1,16 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\App.g.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel_MarkupCompile.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\bin\Debug\WPF2StackPanel.exe.config
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\bin\Debug\WPF2StackPanel.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\bin\Debug\WPF2StackPanel.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\MainWindow.g.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel_MarkupCompile.lref
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\MainWindow.baml
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel.g.resources
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel.Properties.Resources.resources
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel.csproj.GenerateResource.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WPF2StackPanel\obj\Debug\WPF2StackPanel.pdb

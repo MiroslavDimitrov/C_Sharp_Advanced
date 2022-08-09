@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF01"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="WPF01.MainWindow"
+        mc:Ignorable="d"
+        Title="HelloWorld" Height="450" Width="800">
+    <Grid x:Name="Hello">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Center" Margin="0,174,0,0" TextWrapping="Wrap" Text="Hello, my name is Miroslav." VerticalAlignment="Top" Width="100" Height="80" FontSize="18"/>
+        <Button Content="Click me" HorizontalAlignment="Left" Margin="265,254,0,0" VerticalAlignment="Top" Width="90" Height="70" FontSize="20"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="419,254,0,0" VerticalAlignment="Top" Width="90" Height="70" FontSize="20"/>
+        <Button Margin="10,22,142,322">
+            <Button.Height>
+                <System:Double>90</System:Double>
+            </Button.Height>
+            <Button.FontSize>
+                <System:Double>26</System:Double>
+            </Button.FontSize>
+            <WrapPanel>
+                <TextBlock Foreground="Indigo"><Run Text="Multi"/></TextBlock>
+                <TextBlock Foreground="Maroon"><Run Text="Color"/></TextBlock>
+                <TextBlock Foreground="Orchid"><Run Text="Button"/></TextBlock>
+            </WrapPanel>
+        </Button>
+    </Grid>
+</Window>
