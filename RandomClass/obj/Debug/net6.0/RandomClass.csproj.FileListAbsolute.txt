@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\bin\Debug\net6.0\RandomClass.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\bin\Debug\net6.0\RandomClass.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\bin\Debug\net6.0\RandomClass.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\bin\Debug\net6.0\RandomClass.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\bin\Debug\net6.0\RandomClass.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\RandomClass.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\RandomClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\RandomClass.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\RandomClass.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\RandomClass.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\refint\RandomClass.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\RandomClass.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\RandomClass.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\RandomClass\obj\Debug\net6.0\ref\RandomClass.dll
