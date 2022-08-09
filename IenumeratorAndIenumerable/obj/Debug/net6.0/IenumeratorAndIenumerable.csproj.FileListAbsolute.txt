@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\bin\Debug\net6.0\IenumeratorAndIenumerable.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\bin\Debug\net6.0\IenumeratorAndIenumerable.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\bin\Debug\net6.0\IenumeratorAndIenumerable.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\bin\Debug\net6.0\IenumeratorAndIenumerable.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\bin\Debug\net6.0\IenumeratorAndIenumerable.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\IenumeratorAndIenumerable.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\IenumeratorAndIenumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\IenumeratorAndIenumerable.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\IenumeratorAndIenumerable.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\IenumeratorAndIenumerable.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\IenumeratorAndIenumerable.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\refint\IenumeratorAndIenumerable.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\IenumeratorAndIenumerable.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\IenumeratorAndIenumerable.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\IenumeratorAndIenumerable\obj\Debug\net6.0\ref\IenumeratorAndIenumerable.dll
