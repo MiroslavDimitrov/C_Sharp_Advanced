@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\bin\Debug\net6.0\VirtualOverrideDemo.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\bin\Debug\net6.0\VirtualOverrideDemo.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\bin\Debug\net6.0\VirtualOverrideDemo.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\bin\Debug\net6.0\VirtualOverrideDemo.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\bin\Debug\net6.0\VirtualOverrideDemo.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\VirtualOverrideDemo.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\VirtualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\VirtualOverrideDemo.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\VirtualOverrideDemo.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\VirtualOverrideDemo.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\refint\VirtualOverrideDemo.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\VirtualOverrideDemo.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\VirtualOverrideDemo.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\VirtualOverrideDemo\obj\Debug\net6.0\ref\VirtualOverrideDemo.dll
