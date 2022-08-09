@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\bin\Debug\net6.0\WriteAFile.exe
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\bin\Debug\net6.0\WriteAFile.deps.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\bin\Debug\net6.0\WriteAFile.runtimeconfig.json
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\bin\Debug\net6.0\WriteAFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\bin\Debug\net6.0\WriteAFile.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\WriteAFile.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\WriteAFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\WriteAFile.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\WriteAFile.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\WriteAFile.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\WriteAFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\refint\WriteAFile.dll
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\WriteAFile.pdb
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\WriteAFile.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\C_sharp_advanced\WriteAFile\obj\Debug\net6.0\ref\WriteAFile.dll
