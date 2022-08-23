@@ -1,0 +1,16 @@
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\bin\Debug\SQL_WPF_ZOO_MANAGER.exe.config
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\bin\Debug\SQL_WPF_ZOO_MANAGER.exe
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\bin\Debug\SQL_WPF_ZOO_MANAGER.pdb
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER.csproj.AssemblyReference.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER.csproj.SuggestedBindingRedirects.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\MainWindow.g.cs
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\App.g.cs
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER_MarkupCompile.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER_MarkupCompile.lref
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\MainWindow.baml
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER.g.resources
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER.Properties.Resources.resources
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER.csproj.GenerateResource.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER.csproj.CoreCompileInputs.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER.exe
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\SQL_WPF_ZOO_MANAGER\obj\Debug\SQL_WPF_ZOO_MANAGER.pdb

@@ -1,0 +1,15 @@
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\bin\Debug\net6.0\LINQ_WITH_XML.exe
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\bin\Debug\net6.0\LINQ_WITH_XML.deps.json
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\bin\Debug\net6.0\LINQ_WITH_XML.runtimeconfig.json
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\bin\Debug\net6.0\LINQ_WITH_XML.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\bin\Debug\net6.0\LINQ_WITH_XML.pdb
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\LINQ_WITH_XML.csproj.AssemblyReference.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\LINQ_WITH_XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\LINQ_WITH_XML.AssemblyInfoInputs.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\LINQ_WITH_XML.AssemblyInfo.cs
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\LINQ_WITH_XML.csproj.CoreCompileInputs.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\LINQ_WITH_XML.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\refint\LINQ_WITH_XML.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\LINQ_WITH_XML.pdb
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\LINQ_WITH_XML.genruntimeconfig.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_WITH_XML\obj\Debug\net6.0\ref\LINQ_WITH_XML.dll
