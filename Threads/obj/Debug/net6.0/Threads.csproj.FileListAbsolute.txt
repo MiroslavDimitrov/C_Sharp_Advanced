@@ -1,0 +1,15 @@
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\bin\Debug\net6.0\Threads.exe
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\bin\Debug\net6.0\Threads.deps.json
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\bin\Debug\net6.0\Threads.runtimeconfig.json
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\bin\Debug\net6.0\Threads.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\bin\Debug\net6.0\Threads.pdb
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\Threads.csproj.AssemblyReference.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\Threads.AssemblyInfoInputs.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\Threads.AssemblyInfo.cs
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\Threads.csproj.CoreCompileInputs.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\Threads.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\refint\Threads.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\Threads.pdb
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\Threads.genruntimeconfig.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\Threads\obj\Debug\net6.0\ref\Threads.dll
