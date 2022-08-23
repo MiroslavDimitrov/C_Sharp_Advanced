@@ -1,0 +1,15 @@
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\bin\Debug\net6.0\LINQ_01.exe
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\bin\Debug\net6.0\LINQ_01.deps.json
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\bin\Debug\net6.0\LINQ_01.runtimeconfig.json
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\bin\Debug\net6.0\LINQ_01.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\bin\Debug\net6.0\LINQ_01.pdb
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\LINQ_01.csproj.AssemblyReference.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\LINQ_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\LINQ_01.AssemblyInfoInputs.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\LINQ_01.AssemblyInfo.cs
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\LINQ_01.csproj.CoreCompileInputs.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\LINQ_01.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\refint\LINQ_01.dll
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\LINQ_01.pdb
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\LINQ_01.genruntimeconfig.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_01\obj\Debug\net6.0\ref\LINQ_01.dll

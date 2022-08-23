@@ -1,0 +1,16 @@
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL.csproj.AssemblyReference.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL.csproj.SuggestedBindingRedirects.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\App.g.cs
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL_MarkupCompile.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\bin\Debug\LINQ_TO_SQL.exe.config
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\bin\Debug\LINQ_TO_SQL.exe
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\bin\Debug\LINQ_TO_SQL.pdb
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\MainWindow.g.cs
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL_MarkupCompile.lref
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\MainWindow.baml
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL.g.resources
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL.Properties.Resources.resources
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL.csproj.GenerateResource.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL.csproj.CoreCompileInputs.cache
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL.exe
+C:\Udemy\C_Sarp_Advanced\C_Sharp_Advanced\LINQ_TO_SQL\obj\Debug\LINQ_TO_SQL.pdb
